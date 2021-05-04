@@ -1,1 +1,4 @@
-learn linux
+learn linuxSDADEWFEWF
+
+
+untracked changes text msg addded
